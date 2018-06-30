@@ -1,19 +1,20 @@
 th,td{
-	border:1px solid black;
+	border:2px solid black;
 }
 table{
 	border-collapse: collapse;
-	width: 100%;
+	width: 90%;
 	height: 50%;
+	margin:10px;
 }
 .canphai{
 	text-align: right;
 	border-width: 0px;
-	color: lightblue;
+	color: blue;
 }
 .block{
 	border-width: 0px;
-	color:lightblue;
+	color:blue;
 }
 
 h1{
