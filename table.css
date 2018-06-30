@@ -1,0 +1,18 @@
+.silver{
+	background-color: silver;
+}
+body{
+	background-image: url("C:\Users\Son\Desktop\comic\onepiece.jpg");
+	background-position: right-top;
+}
+table{
+	width: 50%;
+	height: 50%;
+	border-collapse: collapse;
+	text-align: center;
+	border:1px solid white;
+}
+td,th,tr{
+	width: 40px;
+	height: 40px;
+}
